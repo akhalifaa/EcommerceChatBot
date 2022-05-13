@@ -1,0 +1,95 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hey",
+          "Hi",
+          "How are you",
+          "anyone there?",
+          "Hello",
+          "hello there",
+          "Good day"
+        ],
+        "responses": [
+          "Hey, how can I help?",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Bye", 
+          "See you later",
+          "thank you, good bye",
+          "Goodbye, have a good one"
+        ],
+        "responses": [
+          "chat to you later, thanks for visiting",
+          "Have a great day",
+          "goodbye! Come back again soon",
+          "Hope I helped, goodbye"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Thank you",
+          "Thanks", 
+          "Thanks for the help", 
+          "Thanks a lot!"
+        ],
+        "responses": [
+          "Any time!",
+          "Happy to help!",  
+          "My pleasure",
+          "No worries"
+        ]
+      },
+      {
+        "tag": "products",
+        "patterns": [
+          "Which products do you have?",
+          "What kind of products?",
+          "What do you sell?",
+          "what products do you offer"
+        ],
+        "responses": [
+          "We sell fitness products",
+          "Sports shorts, t-shirts, shoes, dumbells and more!",
+          "Anything fitness related, we got it!"
+        ]
+      },
+      {
+        "tag": "payments",
+        "patterns": [
+          "Can I pay with Paypal?",
+          "Do you take credit cards?",
+          "Do you accept Mastercard?",
+          "Are you cash only?",
+          "How can I pay?"
+        ],
+        "responses": [
+          "We accept VISA, Mastercard and Paypal",
+          "We accept most major credit cards, and Paypal",
+          "We accept any VISA, Mastercards but unfortunately not AMEX"
+        ]
+      },
+      {
+        "tag": "delivery",
+        "patterns": [
+          "How long does shipping take?",
+          "How long does delivery take?",
+          "When do I get my delivery?",
+          "How long does it take to deliver?"
+        ],
+        "responses": [
+          "Delivery takes 2-4 business days",
+          "Shipping takes 2-4 business days"
+        ]
+      }
+    ]
+  }
+  
