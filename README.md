@@ -21,5 +21,5 @@
 
 
 
-Here is a sample convo with the bot :)
+Here is a sample convo with the bot!
 ![Image](https://github.com/akhalifaa/EcommerceChatBot/blob/main/Example%20Convo.png)
