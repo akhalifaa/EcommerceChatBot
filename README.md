@@ -29,4 +29,5 @@
 
 
 Here is a sample convo with the bot!
+
 ![Image](https://github.com/akhalifaa/EcommerceChatBot/blob/main/Convo.png)
