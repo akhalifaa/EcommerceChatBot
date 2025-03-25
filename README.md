@@ -23,7 +23,7 @@
 | l2 linear (hidden) | 8 | 8 | 
 | l3 linear (output) | 8       | 6|
 
-5) Next I looked at some metrics and plotted the training loss over time.
+5) Next I looked at some metrics and plotted the training loss over time
 
 6) Finally I implemented the loop that is in charge of interacting with the customer. I randomized chatbot names every time the program is run in order to make it feel more sentimental and realistic to the customer and feel like they are speaking to a real person.
 
