@@ -1,6 +1,6 @@
 # EcommerceChatBot 🤖
 
-## Project Overivew:
+## Project Overview:
 * Created an Ecommerce style Chatbot that interacts with customers inquiring about things like **products, delivery times, and payment methods**
 * Built a Json intents file containing various **tags, patterns and responses strings** that I tailored to an Ecommerce environment and used to train and test my model.
 * Utilized the NLTK toolkit to pre-process strings from the JSON file.
